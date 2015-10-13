@@ -1,0 +1,1 @@
+CeliurosDEV is a semi-bugless v83 Source for the polular F2P MMORPG, MapleStory. We are based on a clean LocalMS to match up to todays java standards. Bugs are being worked on by our developers and npc scripts and features for players to enjoy are constantly being added.
